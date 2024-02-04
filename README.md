@@ -6,7 +6,7 @@ Predicting future blood donations using machine learning is a critical and impac
 ### Project Title: Predicting Future Blood Donations
 
 ### Goal:
-The primary objective of this project is to develop a machine learning model that can predict whether a blood donor will donate within a given time window. By understanding and forecasting blood donation patterns, the healthcare system can optimize its resources, improve blood supply management, and ensure a consistent and sufficient blood inventory.
+The primary objective of this project is to develop a machine-learning model that can predict whether a blood donor will donate within a given time window. By understanding and forecasting blood donation patterns, the healthcare system can optimize its resources, improve blood supply management, and ensure a consistent and sufficient blood inventory.
 
 ### Importance:
 1. **Resource Optimization:** Efficiently predicting future blood donations helps blood collection centers plan their resources, staffing, and outreach efforts effectively. This can prevent shortages or excesses of blood supply, ensuring a balanced and sustainable system.
@@ -38,4 +38,3 @@ The primary objective of this project is to develop a machine learning model tha
 
 10. **Conclusion:** Summarize the findings, highlight the accuracy achieved by the model, and provide insights for further improvement or exploration.
 
-By addressing these tasks, the project aims to develop a reliable and accurate machine learning model that can assist blood donation centers in forecasting and managing blood supplies efficiently.
